@@ -1,4 +1,6 @@
 # Timer
-Check out this timer for Mac
+Check out this friendly timer for Mac
+Just tap on numbers and press start
+
 
 
